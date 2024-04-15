@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "Acronym": "BIOS",
+    "Definition": "Basic Input/Output System"
+  },
+  {
+    "id": 2,
+    "Acronym": "RAID",
+    "Definition": "Redundant Array of Inexpensive Disks"
+  },
+  {
+    "id": 3,
+    "Acronym": "IaaS",
+    "Definition": "Infrastructure as a Service"
+  },
+  {
+    "id": 4,
+    "Acronym": "PaaS",
+    "Definition": "Platform as a Service"
+  },
+  {
+    "id": 5,
+    "Acronym": "IaC",
+    "Definition": "Infrastructure as Code"
+  }
+]
